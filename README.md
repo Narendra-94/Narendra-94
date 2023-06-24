@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open source projects,
 
 🚀 I'm a <b>Software Engineer at eGain Communication Pvt. Ltd</b>, fueling the creation of cutting-edge tech.
 
-💻 Passionate about React.js and JavaScript, I'm all about crafting mind-blowing user experiences.
+💻 Passionate about <b>React.js and JavaScript</b>, I'm all about crafting mind-blowing user experiences.
 
 ⚡️ Building interactive web apps with React.js is my jam. I'm always in the know with the latest trends.
 
