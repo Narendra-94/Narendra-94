@@ -1,4 +1,4 @@
-# Hi, I'm Narendra
+# 🙏 Hi, I'm Narendra
 
 Welcome to my GitHub profile! I'm passionate about coding, open source projects, and building innovative software solutions. Here you'll find a collection of my personal projects, contributions to open source, and more.
 
