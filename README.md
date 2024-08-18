@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open source projects,
 
   Welcome to my GitHub profile! Here are a few things to know about me:
 
-🚀 I'm a <b>Software Engineer at eGain Communication Pvt. Ltd</b>, fueling the creation of cutting-edge tech.
+🚀 I'm a <b>Software Engineer at Infobeans Cloudtech Ltd</b>, fueling the creation of cutting-edge tech.
 
 💻 Passionate about <b>React.js and JavaScript</b>, I'm all about crafting mind-blowing user experiences.
 
