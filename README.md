@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open source projects,
 
 🌟 Collaboration is my middle name! I'm eager to team up on exciting open-source React.js projects.
 
-📫 Reach out to me at narendrachordiya1234@gmail.com for discussions, networking, and game-changing opportunities.
+📫 Reach out to me at narenchordiya07@gmail.com for discussions, networking, and game-changing opportunities.
 
 Let's join forces and create something extraordinary! 🌟
 
